@@ -1,0 +1,23 @@
+{
+  "name": "makerbot-status",
+  "version": "0.0.0",
+  "description": "Partial implementation of s3g Protocol to retrieve status information.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "s3g",
+    "MakerBot"
+  ],
+  "repository": {
+    "type":"git",
+    "url":"https://github.com/aowola/makerbot-status.git"
+  },
+  "author": "Akin Owolabi <akin@truthlabs.com>",
+  "license": "MIT",
+  "dependencies": {
+    "serialport": "1.2.5",
+    "q": "0.9.7"
+  }
+}

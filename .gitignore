@@ -1,0 +1,3 @@
+#Ignore Node Modules
+.DS_Store
+node_modules
